@@ -1,7 +1,7 @@
 {
   "name": "color-switch",
   "version": "1.1.0",
-  "description": "",
+  "description": "homework",
   "main": "index.js",
   "homepage": "https://cookiemonster1201.github.io/goit-js-hw-11-color-switch",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://cookiemonster1201.github.io/goit-js-hw-11-color-switch"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Alona",
   "license": "ISC",
   "bugs": {
     "url": "https://cookiemonster1201.github.io/goit-js-hw-11-color-switch/issues"
